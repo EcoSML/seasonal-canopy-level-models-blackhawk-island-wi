@@ -1,0 +1,8 @@
+{
+  "id": "56bc5677-ed23-4444-8823-4ea05255071e",
+  "name": "seasonal-canopy-level-models-blackhawk-island-wi",
+  "overview": "PLSR models for estimating full season canopy biochemistry",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "adamc"
+}
